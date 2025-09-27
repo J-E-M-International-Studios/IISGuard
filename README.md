@@ -25,7 +25,7 @@ It is designed for administrators who want to protect their IIS servers against 
   - Creates Windows Firewall rules (`INetFwPolicy2`) for blocked IPs  
   - Optionally adds `<ipSecurity>` deny rules to IIS sites (using `Microsoft.Web.Administration`)  
 
-- **Console UI (Win-ACME style)**  
+- **Console UI **  
   When run interactively, IISGuard shows a text-based menu:
   ```
   =============================
@@ -140,16 +140,6 @@ All runtime settings are stored in `appsettings.json`:
    - Firewall inbound rule is created.
    - IIS `<ipSecurity>` deny entry is added.
    - Entry is saved to `blocked.json` and displayed in UI.
-
----
-
-## 📂 Project Structure
-
-- `Program.cs` → entry point, DI setup, console UI
-- `IisGuardWorker` → background service, log tailer, blocking rules
-- `LogTail` → file tail implementation
-- `DailyFileLoggerProvider` → custom file logger with rotation
-- `IisGuardConsole` → interactive console UI
 
 ---
 
