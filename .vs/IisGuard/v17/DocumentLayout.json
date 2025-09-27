@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eonvw\\source\\repos\\IisGuard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76460D4F-C71F-4350-B08E-D9D4020A43B3}|IisGuard\\IisGuard.csproj|c:\\users\\eonvw\\source\\repos\\iisguard\\iisguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76460D4F-C71F-4350-B08E-D9D4020A43B3}|IisGuard\\IisGuard.csproj|solutionrelative:iisguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76460D4F-C71F-4350-B08E-D9D4020A43B3}|IisGuard\\IisGuard.csproj|c:\\users\\eonvw\\source\\repos\\iisguard\\iisguard\\iisguard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{76460D4F-C71F-4350-B08E-D9D4020A43B3}|IisGuard\\IisGuard.csproj|solutionrelative:iisguard\\iisguard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76460D4F-C71F-4350-B08E-D9D4020A43B3}|IisGuard\\IisGuard.csproj|c:\\users\\eonvw\\source\\repos\\iisguard\\iisguard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76460D4F-C71F-4350-B08E-D9D4020A43B3}|IisGuard\\IisGuard.csproj|solutionrelative:iisguard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{13b29bd0-3807-335c-9cad-ba55364c29cb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IisGuard",
+              "DocumentMoniker": "C:\\Users\\eonvw\\source\\repos\\IisGuard\\IisGuard\\IisGuard.csproj",
+              "RelativeDocumentMoniker": "IisGuard\\IisGuard.csproj",
+              "ToolTip": "C:\\Users\\eonvw\\source\\repos\\IisGuard\\IisGuard\\IisGuard.csproj",
+              "RelativeToolTip": "IisGuard\\IisGuard.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T06:50:37.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eonvw\\source\\repos\\IisGuard\\IisGuard\\appsettings.json",
+              "RelativeDocumentMoniker": "IisGuard\\appsettings.json",
+              "ToolTip": "C:\\Users\\eonvw\\source\\repos\\IisGuard\\IisGuard\\appsettings.json",
+              "RelativeToolTip": "IisGuard\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T22:24:47.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eonvw\\source\\repos\\IisGuard\\IisGuard\\Program.cs",
+              "RelativeDocumentMoniker": "IisGuard\\Program.cs",
+              "ToolTip": "C:\\Users\\eonvw\\source\\repos\\IisGuard\\IisGuard\\Program.cs",
+              "RelativeToolTip": "IisGuard\\Program.cs",
+              "ViewState": "AgIAAAQCAAAAAAAAAAAhwBkCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:21:08.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
